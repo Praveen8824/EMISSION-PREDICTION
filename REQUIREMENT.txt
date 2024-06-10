@@ -1,0 +1,8 @@
+NUMPY
+PANDAS
+matplotlib
+seaborn
+scikit-learn
+scipy
+XGboost
+statsmodel
